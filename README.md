@@ -41,7 +41,7 @@ astro-airflow-pipelines/
 └── README.md
 ⚡ Quick Start
 Clone Repository
-git clone https://github.com/ali-essam2002/astro-airflow-pipelines.git
+git clone https://github.com/kareemashrafsaber7/airflow_etl.git
 
 cd astro-airflow-pipelines
 Configure Environment Variables
